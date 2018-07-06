@@ -1,0 +1,23 @@
+.tbl1 {
+     background-color:gray;	
+	 width:100%;
+	 
+	 
+	 
+	}
+	
+td{
+	border:.5px solid black;
+	margin:0px;
+	padding:5px;
+	text-align:center;
+	
+}
+
+#table_head {
+	font-style:italic;
+	font-style:bold;
+	
+	}
+	
+	
