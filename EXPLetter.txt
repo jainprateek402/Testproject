@@ -1,0 +1,86 @@
+Mr. Priyash Bhugra has been associated with the project and has been involved in the initial transition and set up the project. Priyash engaged in providing IT services like analysis and design, Software Development, User training and Technical consulting in the area of Programming and Application support. He has grown and played different roles in the project to meet the Client requirement and has been working on different modules and applications in the project as a Programmer Analyst, as a Developer to fix the bugs. He has also played a role in ensuring standards in the customer deliverables and to improve the Customer satisfaction by taking part in driving various organizational activities. He has been improving themselves with the state of art skill set on Java and SQL related technologies, and always meets the intense and ever increasing demand for latest technologies in the IT industry.
+
+His roles in the project have been summarized below and detailed out in the coming sections:
+
+•	Knowledge Transition on applications categorized as Business Critical by the Clients.
+•	Application support in fixing technical issues by the Business users as well as IT operations.
+•	Servicing applications related standard service request from Business users.
+•	Ensuring 24*7 application availability through a structured monitoring framework.
+•	Improving applications stability through problem management.
+•	Change management for Functional improvements.
+•	Driving Client governance calls on operational performance, risk and challenges.
+•	Crisis management to minimize the adverse impact of service interruptions and other incident on Client Business operations.
+•	Analyzing large chunks of data and process it.
+•	End to End responsible for the service and takes full operational responsibility for the applications on an outcome – based model.
+•	Transition management from the delivery to support organization during project rollouts.
+•	Application rollouts activities such as preparation of User Training Manuals, Online Help Documentation etc. and conducting User Training.
+•	Responsible for managing Information Security controls through a consistent, reliable and documented processes of data management.
+•	Providing Services in a technically feasible and appropriately scalable manner which will accommodate bringing Applications in and taking
+•	Applications out of scope of the services.
+
+TECHNICAL SKILLS
+
+Primary Languages: 	C, C++, JAVA, Spring, HTML, JavaScript, CSS, Java MVC, Python.
+
+Secondary Skills: 	Oracle identity and access management 11G (OIAM), Cryptography.
+
+Databases: 		SQL, PLSQL, MYSQL.
+
+Development tools:       Eclipse neon, Sail point IQ.
+
+Documentation tools:    Microsoft Office.
+
+
+PROJECT OVERVIEW
+
+Project 1:
+Role: 		 Programmer Analyst.
+Technology:	 Java, MVC Architecture, J2EE technologies (JSP, Servlets), SQL, PLSQL.
+Location: 	 Bangalore.
+
+
+
+
+
+Objective:
+
+Web Application which helps in booking Vehicles such as cabs / traveler when-ever required for Organization Employees.
+
+Roles and Responsibilities:
+•	He has been part of this project from initial phase.
+•	He was responsible in developing front-end/Back-end application along with his colleagues.
+•	He deals with the entire requirement raised by the client.
+
+Project 2:
+Role:		 IAM Analyst.
+Technology:       Java, Oracle 11G, OIAM, Others XML, Excel.
+	
+Objective:
+
+Identity and Access Management (IAM) maintains security discipline that enables individuals to access the right resources at the right times for the right reasons for internal users. Oracle Identity Manager (OIM) helps in managing identities which were integrated with Oracle Directory (OID) for user repository. Architecture of Identity and Access Management helps to understand whole Work flow and components of IDM ie Web Gate, Access Gate, Connectors, Adapters, OIM, OID, OAM, OHS, LDAP, IWA, Clusters.
+
+Roles and Responsibilities:
+
+•	He has been part of the project from the Pilot Phase of the Transition.
+•	He was involved in the transition from 10 G to 11G
+•	He has been responsible for the support on application issues, and on servicing standard issues from users.
+•	He is responsible for making JAVA Connectors, Adapters and Deploy application to the servers.
+•	He is responsible for resource management and is in charge of the Knowledge transition and Mentoring of new team members.
+•	He has worked on key enhancements on security improvements for the application.
+•	He has coordinated the Project deployment and regression test planning activities and had a successful on time implementation of enhancement projects.
+
+
+Project 3:
+Role:		 IAM Analyst.
+Technology:	 Oracle 11G.
+
+Objective:
+
+The AIMS team is responsible for provisioning and de-provisioning of access to over 500 applications. This includes JLT (Joiner Leaver, Transfer) Unix  & DB ID’s.
+
+Roles and Responsibilities:
+
+•	He was responsible in handling and managing huge chunks of data.
+•	He major role was to provide access of the application to the Employees and Agents.
+•	He has been responsible L2/L3 support on application issues and on servicing standard issues from Users, Inter/Intra Region transfer.
+•	He is responsible for maintaining the weekly status reports & in conducting the client governance calls on reviewing the team performance.
